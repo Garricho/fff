@@ -1,0 +1,4 @@
+api_id = 26760714
+api_hash = "70af2b06b0b205ed699ae058dd18ce17"
+bot_token = "7532095827:AAEaqa998OTV6LmrgAag9XvEen2R6rYcv8c"
+channel_username = "@Qiziltepaliklar_Bozori"  # Kanal username shu yerga yoziladi
